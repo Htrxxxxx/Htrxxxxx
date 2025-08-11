@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CS61BYoW](https://sp21.datastructur.es/materials/proj/proj3/proj3)
 
-- 👯 I’m looking to collaborate on **BackEnd Development Using Java**
+- 👯 I’m looking to collaborate on **Back-End Development with Java**
 
 - 📫 How to reach me **mohamedyasser222003@gmail.com**
 
