@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-yasser-3a6002275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-yasser-3a6002275/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/mohamed_yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mohamed_yasser" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/htrx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/htrx/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed yasser‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed yasser‏" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mohamed_yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed_yasser" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/htrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="htrx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
