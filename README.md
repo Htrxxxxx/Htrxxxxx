@@ -23,7 +23,7 @@ Currently:
 ---
 
 ## 🏆 ***Achievements***
-- Solved **3,000+ problems** across Codeforces, LeetCode, AtCoder, and CodeChef.  
+- Solved **+3,000 problems** across Codeforces, LeetCode, AtCoder, and CodeChef.  
 - Ranked **6th** among 200+ teams (ICPC Qualifications — Day 3).  
 - Ranked in the **Top 150** in the MIT Contest out of 1500+ participants worldwide.  
 - **ECPC Finalist** (2024 & 2025). [ICPC ID](https://icpc.global/private/person/986516/ICPCID)  
