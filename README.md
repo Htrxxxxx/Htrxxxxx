@@ -51,7 +51,7 @@ Currently:
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed--Yasser-0A66C2?logo=linkedin&logoColor=white&style=flat-square" />
   </a>&nbsp;
   <a href="https://codeforces.com/profile/Htrxxxxx" title="Codeforces">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-Htrxxxxx-2EA44F?logo=codeforces&logoColor=white&style=flat-square" />
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-Mohamed_Yasser-2EA44F?logo=codeforces&logoColor=white&style=flat-square" />
   </a>&nbsp;
   <a href="mailto:mohamedyasser222003@gmail.com" title="Email">
     <img alt="Email" src="https://img.shields.io/badge/Email-mohamedyasser222003@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" />
