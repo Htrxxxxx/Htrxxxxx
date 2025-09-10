@@ -1,18 +1,61 @@
-<h1 align="center">Hi 👋, I'm Mohamed Yasser</h1>
-<h3 align="center">CSE student .</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [CS61BYoW](https://sp21.datastructur.es/materials/proj/proj3/proj3)
-
-- 👯 I’m looking to collaborate on **Back-End Development with Java**
-
-- 📫 How to reach me **mohamedyasser222003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-yasser-3a6002275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-yasser-3a6002275" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohamed_yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed_yasser" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/htrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="htrx" height="30" width="40" /></a>
+# Hi, I’m **Mohammed Yasser** 👋
+  
+<p align="center">
+  <img alt="Competitive Programmer — Software Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=850&height=90&lines=Competitive+Programmer;Software+Developer;Open+Source+Contributor;Lifelong+Learner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 🧑‍💻 ***About Me***
+
+I’m a **Computer Science student** passionate about **competitive programming, algorithms, and building impactful software**.  
+I enjoy solving problems that require **clean, efficient, and scalable solutions**.  
+
+Currently:  
+- 🌱 Learning **Go** and exploring system-level development.  
+- 🔭 Working on **CLI tools** and **games** for fun and practice.  
+- 🤝 Open to collaborating on open-source projects.  
+
+---
+
+## 🏆 ***Achievements***
+- Solved **3,000+ problems** across Codeforces, LeetCode, AtCoder, and CodeChef.  
+- Ranked **6th** among 200+ teams (ICPC Qualifications — Day 3).  
+- Ranked in the **Top 150** in the MIT Contest out of 1500+ participants worldwide.  
+- **ECPC Finalist** (2024 & 2025). [ICPC ID](https://icpc.global/private/person/986516/ICPCID)  
+- Built **open-source projects** like Gitlet (Java VCS), ExpenseTracker (C++17), TODO CLI (Go), and Ping Pong Game (Python Turtle).  
+
+---
+
+## ⚡ ***Skills***
+<p align="center">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />&nbsp;
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />&nbsp;
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />&nbsp;
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" />&nbsp;
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square" />&nbsp;
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+## 🔗 ***How To Reach Me***
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/mohamed-yasser-3a6002275/" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed--Yasser-0A66C2?logo=linkedin&logoColor=white&style=flat-square" />
+  </a>&nbsp;
+  <a href="https://codeforces.com/profile/Htrxxxxx" title="Codeforces">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-Htrxxxxx-2EA44F?logo=codeforces&logoColor=white&style=flat-square" />
+  </a>&nbsp;
+  <a href="mailto:mohamedyasser222003@gmail.com" title="Email">
+    <img alt="Email" src="https://img.shields.io/badge/Email-mohamedyasser222003@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" />
+  </a>&nbsp;
+  <a href="https://github.com/Htrxxxxx" title="GitHub">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Htrxxxxx-181717?logo=github&logoColor=white&style=flat-square" />
+  </a>
+</p>
