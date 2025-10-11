@@ -10,15 +10,15 @@
 
 ---
 
-## 🧑‍💻 ***About Me***
+## ***About Me***
 
 I’m a **Computer Science student** passionate about **competitive programming, algorithms, and building impactful software**.  
 I enjoy solving problems that require **clean, efficient, and scalable solutions**.  
 
 Currently:  
-- 🌱 Learning **Go** and exploring system-level development.  
-- 🔭 Working on **CLI tools** and **games** for fun and practice.  
-- 🤝 Open to collaborating on open-source projects.  
+-  Learning **Go** and exploring system-level development.  
+-  Working on **CLI tools** and **games** for fun and practice.  
+-  Open to collaborating on open-source projects.  
 
 ---
 
