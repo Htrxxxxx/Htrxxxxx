@@ -3,7 +3,7 @@
 # Hi, I’m **Mohammed Yasser** 👋
   
 <p align="center">
-  <img alt="Competitive Programmer — Software Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=850&height=90&lines=Competitive+Programmer;Software+Developer;Open+Source+Contributor;Lifelong+Learner" />
+  <img alt="Competitive Programmer — Software Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=850&height=90&lines=Competitive+Programmer;Software+Developer;Lifelong+Learner" />
 </p>
 
 </div>
